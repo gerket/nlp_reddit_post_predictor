@@ -5,7 +5,7 @@ The subreddits that I chose for this project are r/buildapc and r/talesfromtechs
 
 In order to figure out which model is optimal, I have created a function that takes in multiple parameters including data cleaning options, different models, different vectorizers, and hyper-parameters for each. The function then goes through and tests all of the different combinations of these parameters, with multiple different hyper-parameters for each of them as well.
 
-<<<<<<< HEAD
+
 #### FileTree
 - Data/
     - main_dataframe.csv  
@@ -50,7 +50,6 @@ The 10 most important words*, as weighted by the model, are:
  - 'http'
  - 'work'
 
-=======
 
 ## Results
 
@@ -77,6 +76,3 @@ The 10 most important words*, as weighted by the model, are:
  - 'phone'
  - 'http'
  - 'work'
-
->>>>>>> 5a9869e96d677ac95c08773028d11d8832a83992
- *_The words are stemmed so some may seem cut off_
